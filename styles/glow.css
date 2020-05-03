@@ -1,0 +1,11 @@
+.glow-text-up-right {
+  text-shadow: 3px -4px 6px rgba(206, 89, 55, 0.9);
+}
+
+.glow-text-down-right {
+  text-shadow: 4px 11px 8px rgba(206, 89, 55, 0.9);
+}
+
+.glow-text-slight-down-right {
+  text-shadow: 4px 6px 8px rgba(206, 89, 55, 0.9);
+}
