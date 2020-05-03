@@ -1,6 +1,7 @@
 .icons-text {
   display: flex;
   align-items: center;
+  flex-wrap: wrap;
 }
 
 .icon-text {
@@ -12,7 +13,8 @@
   margin-right: 10px;
 }
 
-.icon-text img, .icon-text svg {
+.icon-text img,
+.icon-text svg {
   margin-right: 4px;
   width: 21px;
 }
