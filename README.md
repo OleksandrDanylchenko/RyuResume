@@ -1,6 +1,7 @@
 # Resume page for Ryu
+
 ![Ryu gif](https://media.giphy.com/media/1o3CRZl4Lcwnu/giphy.gif)
->HADOUKEN! 
+>HADOUKEN!
 
 ### This project aimed to create a proper resume page for the special client -- **Ryu from Street Fighter game series**.
 
